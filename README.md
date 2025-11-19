@@ -4,6 +4,8 @@ I'm a programmer working in the technology sector, always committed to continuou
 
 My goal is to develop efficient, scalable solutions aligned with current market needs. I believe that technology evolves daily, so I maintain a posture of constant learning, exploring new tools, methodologies, and trends that can add value to the projects I participate in. 🚀
 
+I am a SAMP-MP developer, textdraw-maker, and mapper programmer. I know a little about design and some other programming languages, but I only know the very basics...
+
 I always strive to combine creativity, logic, and best practices to deliver high-quality results. I am motivated to contribute to environments that encourage innovation, professional growth, and collaboration among teams. 🤝✨
 
 <div style="display: inline_block"><br>
