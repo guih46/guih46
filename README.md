@@ -1,25 +1,49 @@
-## 🍀 Hi, how are you? I'm going to tell you about myself.
+# 👋 Hello, I'm Guilherme!
 
-I'm a programmer working in the technology sector, always committed to continuous improvement and excellence in what I do.
+💻 Passionate developer focused on **game development**, **backend systems**, and **technology solutions**.
 
-My goal is to develop efficient, scalable solutions aligned with current market needs. I believe that technology evolves daily, so I maintain a posture of constant learning, exploring new tools, methodologies, and trends that can add value to the projects I participate in. 🚀
+🚀 Specialized in **SA-MP (Pawn)** development, focused on:
+- 🖥️ Creating advanced **TextDraw interfaces**
+- 🗺️ Building immersive **maps and custom environments**
+- 📜 Developing optimized **scripts and game systems**
+- ⚡ Delivering custom gameplay solutions
 
-I am a SAMP-MP developer, textdraw-maker, and mapper programmer. I know a little about design and some other programming languages, but I only know the very basics...
+---
 
-I always strive to combine creativity, logic, and best practices to deliver high-quality results. I am motivated to contribute to environments that encourage innovation, professional growth, and collaboration among teams. 🤝✨
+## 🛠️ Tech Stack
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guih-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Guih-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Guih-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Guih-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg">
-  <img align="center" alt="Guih-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Guih-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Guih-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://discord.gg/bRnSY32AJg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+### Languages I work with:
+- ⚡ **Pawn (SA-MP Specialist)**
+- 🔹 **C**
+- 🗄️ **SQL**
+- 🐍 **Python (Basic)**
+
+### Currently learning & improving:
+- 🌐 **Front-end Development**
+- ⚙️ **Back-end Development**
+- 📚 Deepening my knowledge in software architecture and scalable systems
+
+---
+
+## 🎯 About Me
+✨ I enjoy turning ideas into functional systems.  
+🧠 Always learning new technologies and improving my coding skills.  
+🔥 Focused on writing clean, efficient, and scalable code.  
+🚀 Passionate about creating innovative and optimized projects.
+
+---
+
+## 📈 Goals
+- Become a **Full Stack Developer**
+- Master **Front-end & Back-end**
+- Improve my skills in **Python** and **C**
+- Build bigger and better projects every day 🚀
+
+---
+
+## ⚙️ Tools & Technologies
+🖌️ Figma | 🎨 Photoshop | 💻 VS Code | 🐧 Linux | 🔥 Pawn | 🗄️ MySQL | 🟠 Blender
+
+---
+
+⭐ *"Code, learn, improve, repeat."*
